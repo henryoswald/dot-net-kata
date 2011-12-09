@@ -1,0 +1,7 @@
+C:\code\KataRomanNumerals\KataRomanNumerals\bin\Debug\KataRomanNumerals.exe
+C:\code\KataRomanNumerals\KataRomanNumerals\bin\Debug\KataRomanNumerals.pdb
+C:\code\KataRomanNumerals\KataRomanNumerals\bin\Debug\nunit.framework.dll
+C:\code\KataRomanNumerals\KataRomanNumerals\bin\Debug\nunit.framework.xml
+C:\code\KataRomanNumerals\KataRomanNumerals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\KataRomanNumerals\KataRomanNumerals\obj\x86\Debug\KataRomanNumerals.exe
+C:\code\KataRomanNumerals\KataRomanNumerals\obj\x86\Debug\KataRomanNumerals.pdb

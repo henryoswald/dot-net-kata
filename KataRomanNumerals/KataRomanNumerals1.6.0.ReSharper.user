@@ -1,0 +1,40 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="crap1.RomanNumberalsConverterTests" type="NUnitTestFixtureElement" Project="3850ABF1-9012-4DF6-922D-887C5116C5FA" />
+        <UnitTestElement Provider="nUnit" Id="crap1.RomanNumberalsConverterTests.should_return_7_with_vii" ParentId="crap1.RomanNumberalsConverterTests" type="NUnitTestElement" TypeName="crap1.RomanNumberalsConverterTests" MethodName="should_return_7_with_vii" Project="3850ABF1-9012-4DF6-922D-887C5116C5FA" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3850ABF1-9012-4DF6-922D-887C5116C5FA/f:Program.cs" caret="170" fromTop="10" />
+      <File id="3850ABF1-9012-4DF6-922D-887C5116C5FA/f:tests.cs" caret="255" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3850ABF1-9012-4DF6-922D-887C5116C5FA/f:tests.cs" caret="137" fromTop="7" />
+      <File id="3850ABF1-9012-4DF6-922D-887C5116C5FA/f:tests.cs" caret="368" fromTop="15" />
+      <File id="3850ABF1-9012-4DF6-922D-887C5116C5FA/f:tests.cs" caret="486" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
