@@ -1,7 +1,0 @@
-C:\code\crap\crap1\bin\Debug\crap1.exe
-C:\code\crap\crap1\bin\Debug\crap1.pdb
-C:\code\crap\crap1\bin\Debug\nunit.framework.dll
-C:\code\crap\crap1\bin\Debug\nunit.framework.xml
-C:\code\crap\crap1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\code\crap\crap1\obj\x86\Debug\crap1.exe
-C:\code\crap\crap1\obj\x86\Debug\crap1.pdb
